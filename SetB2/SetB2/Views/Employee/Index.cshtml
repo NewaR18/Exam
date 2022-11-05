@@ -1,0 +1,18 @@
+﻿@model IEnumerable<Employees>
+<h2>Employee Table</h2>
+<table>
+    <thead>
+        <tr style="width:800px; border:1px solid">
+            <th>Name</th>
+            <th>Phone Number</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model) {
+            <tr border="1">
+                <td>@item.name</td>    
+                <td>@item.phone_no</td>
+            </tr>
+        }
+    </tbody>
+</table>

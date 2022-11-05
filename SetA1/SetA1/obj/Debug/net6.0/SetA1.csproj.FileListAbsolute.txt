@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\Infodev\SetA1\SetA1\bin\Debug\net6.0\SetA1.exe
+C:\Users\sudip\source\repos\Infodev\SetA1\SetA1\bin\Debug\net6.0\SetA1.deps.json
+C:\Users\sudip\source\repos\Infodev\SetA1\SetA1\bin\Debug\net6.0\SetA1.runtimeconfig.json
+C:\Users\sudip\source\repos\Infodev\SetA1\SetA1\bin\Debug\net6.0\SetA1.dll
+C:\Users\sudip\source\repos\Infodev\SetA1\SetA1\bin\Debug\net6.0\SetA1.pdb
+C:\Users\sudip\source\repos\Infodev\SetA1\SetA1\obj\Debug\net6.0\SetA1.csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\Infodev\SetA1\SetA1\obj\Debug\net6.0\SetA1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\Infodev\SetA1\SetA1\obj\Debug\net6.0\SetA1.AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\Infodev\SetA1\SetA1\obj\Debug\net6.0\SetA1.AssemblyInfo.cs
+C:\Users\sudip\source\repos\Infodev\SetA1\SetA1\obj\Debug\net6.0\SetA1.csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\Infodev\SetA1\SetA1\obj\Debug\net6.0\SetA1.dll
+C:\Users\sudip\source\repos\Infodev\SetA1\SetA1\obj\Debug\net6.0\refint\SetA1.dll
+C:\Users\sudip\source\repos\Infodev\SetA1\SetA1\obj\Debug\net6.0\SetA1.pdb
+C:\Users\sudip\source\repos\Infodev\SetA1\SetA1\obj\Debug\net6.0\SetA1.genruntimeconfig.cache
+C:\Users\sudip\source\repos\Infodev\SetA1\SetA1\obj\Debug\net6.0\ref\SetA1.dll

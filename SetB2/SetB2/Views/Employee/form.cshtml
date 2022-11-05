@@ -1,0 +1,9 @@
+﻿@model SetB2.Models.Employees;
+<h2>Employee Data: </h2>
+<form asp-controller="Employee" asp-action="form">
+    <label asp-for="name">Enter your name</label>
+    <input type="text" asp-for="name" /><br/>
+    <label asp-for="phone_no">Enter your Phone Number</label>
+    <input type="number" asp-for="phone_no" /><br/>
+    <input type="Submit" value="Store" />
+</form>

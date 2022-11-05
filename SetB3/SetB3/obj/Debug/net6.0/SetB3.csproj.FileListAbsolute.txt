@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\Infodev\SetB3\SetB3\obj\Debug\net6.0\SetB3.csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\Infodev\SetB3\SetB3\obj\Debug\net6.0\SetB3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\Infodev\SetB3\SetB3\obj\Debug\net6.0\SetB3.AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\Infodev\SetB3\SetB3\obj\Debug\net6.0\SetB3.AssemblyInfo.cs
+C:\Users\sudip\source\repos\Infodev\SetB3\SetB3\obj\Debug\net6.0\SetB3.csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\Infodev\SetB3\SetB3\bin\Debug\net6.0\SetB3.exe
+C:\Users\sudip\source\repos\Infodev\SetB3\SetB3\bin\Debug\net6.0\SetB3.deps.json
+C:\Users\sudip\source\repos\Infodev\SetB3\SetB3\bin\Debug\net6.0\SetB3.runtimeconfig.json
+C:\Users\sudip\source\repos\Infodev\SetB3\SetB3\bin\Debug\net6.0\SetB3.dll
+C:\Users\sudip\source\repos\Infodev\SetB3\SetB3\bin\Debug\net6.0\SetB3.pdb
+C:\Users\sudip\source\repos\Infodev\SetB3\SetB3\obj\Debug\net6.0\SetB3.dll
+C:\Users\sudip\source\repos\Infodev\SetB3\SetB3\obj\Debug\net6.0\refint\SetB3.dll
+C:\Users\sudip\source\repos\Infodev\SetB3\SetB3\obj\Debug\net6.0\SetB3.pdb
+C:\Users\sudip\source\repos\Infodev\SetB3\SetB3\obj\Debug\net6.0\SetB3.genruntimeconfig.cache
+C:\Users\sudip\source\repos\Infodev\SetB3\SetB3\obj\Debug\net6.0\ref\SetB3.dll

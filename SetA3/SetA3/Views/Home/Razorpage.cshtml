@@ -1,0 +1,16 @@
+﻿@{ 
+ ViewData["Title"] = "First Question"; 
+} 
+<h3>@DateTime.Now</h3>
+<table>
+    <tr>
+        <th>Even</th>
+        <th>Odd</th>
+    </tr>
+    @for(int i=0;i<20;i=i+2){
+        <tr>
+            <td>@i</td>
+            <td>@(i+1)</td>
+        </tr>
+    }
+</table>
